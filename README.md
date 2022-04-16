@@ -7,4 +7,5 @@ Experienced Fullstack web developer, A huge tech enthusiast, and a big fan of ev
 - 👯 I’m looking to collaborate on [Deno REST](https://github.com/vicky-gonsalves/deno_rest)
 
 Linkedin: https://www.linkedin.com/mwlite/in/vickygonsalves
+
 Stack Overflow: https://stackoverflow.com/users/1548301/vicky-gonsalves
