@@ -14,7 +14,7 @@ Feel like chatting about code, contributing to Deno Rest, or simply discussing t
 
 ## 🌟 Be a Star: Sponsorships Welcome
 
-Support from sponsors is the gravity that holds this project together. Your support can power development, enhance features, and provide the fuel for better community support. Consider being a shining star in our universe by visiting the [Deno Rest Sponsor Page](https://github.com/vicky-gonsalves/deno_rest/sponsorship)!
+Support from sponsors is the gravity that holds this project together. Your support can power development, enhance features, and provide the fuel for better community support. Consider being a shining star in our universe by visiting the [Deno Rest Sponsor Page](https://github.com/sponsors/vicky-gonsalves)!
 
 ---
 
